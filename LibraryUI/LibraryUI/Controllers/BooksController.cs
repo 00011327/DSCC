@@ -1,8 +1,7 @@
 ﻿using LibraryUI.Models;
 using LibraryUI.Repository;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using System.Linq;
 
 namespace LibraryUI.Controllers
 {
